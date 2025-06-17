@@ -2,6 +2,7 @@ import java.util.Random;
 
 public class EmployeeBonusCalculator {
 
+    // Method to generate random salary and years of service for 10 employees
     public static int[][] generateEmployeeData() {
         Random rand = new Random();
         int[][] data = new int[10][2]; // [][0] = salary, [][1] = years of service
@@ -12,6 +13,7 @@ public class EmployeeBonusCalculator {
         return data;
     }
 
+    // Method to calculate new salary and bonus based on years of service
     public static double[][] calculateNewSalaryAndBonus(int[][] data) {
         double[][] result = new double[10][2]; // [][0] = new salary, [][1] = bonus amount
         for (int i = 0; i < 10; i++) {
@@ -26,6 +28,7 @@ public class EmployeeBonusCalculator {
         return result;
     }
 
+    // Method to calculate and display sums and details in tabular format
     public static void displaySummary(int[][] data, double[][] newData) {
         double sumOldSalary = 0;
         double sumNewSalary = 0;
