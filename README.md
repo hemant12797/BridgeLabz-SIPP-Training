@@ -49,7 +49,7 @@
 
 ---
 
-## OOPS Branch 🧱
+## OOPS Branch 📂
 
 ### 📅 20/06/25 (Fri) – Day 1 – Classes & Objects  
 *Topics*: Defining classes, creating objects, class structure, encapsulating data, real-world object modeling in Java  
@@ -85,3 +85,5 @@
 *Topics*: Types of inheritance, implementation of different inheritance senerios   
 🔗 [Code](https://github.com/hemant12797/BridgeLabz-SIPP-Training/tree/oops/Inheritance)
 
+---
+## DSA Branch 📂
