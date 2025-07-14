@@ -69,6 +69,19 @@
 
 ---
 
-### 📅 25/06/25 (Tue) – Day 4 – Diagrams & Modelling  
+### 📅 25/06/25 (Web) – Day 4 – Diagrams & Modelling  
 *Topics*: Object-oriented modeling, designing class diagrams using UML, understanding relationships like aggregation and composition  
 🔗 [Code](https://github.com/hemant12797/BridgeLabz-SIPP-Training/tree/oops/UML)
+
+---
+
+### 📅 26/06/25 (Thu) – Day 5 – Encapsulation Polymorphism Interface Abstraction  
+*Topics*: Learn basic concepts of Encapsulation Polymorphism Interface Abstraction, implement through code 
+🔗 [Code](https://github.com/hemant12797/BridgeLabz-SIPP-Training/tree/oops/Encapsulation%2C%20Polymorphism%2C%20Interface%20and%20Abstract%20Class)
+
+---
+
+### 📅 27/06/25 (Fri) – Day 5 – Inheritance  
+*Topics*: Types of inheritance, implementation of different inheritance senerios   
+🔗 [Code](https://github.com/hemant12797/BridgeLabz-SIPP-Training/tree/oops/Inheritance)
+
