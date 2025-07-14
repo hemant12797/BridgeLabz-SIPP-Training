@@ -76,7 +76,7 @@
 ---
 
 ### 📅 26/06/25 (Thu) – Day 5 – Encapsulation Polymorphism Interface Abstraction  
-*Topics*: Learn basic concepts of Encapsulation Polymorphism Interface Abstraction, implement through code
+*Topics*: Learn basic concepts of Encapsulation Polymorphism Interface Abstraction, implement through code                                                                                                           
 🔗[Code](https://github.com/hemant12797/BridgeLabz-SIPP-Training/tree/oops/Encapsulation%2C%20Polymorphism%2C%20Interface%20and%20Abstract%20Class)
 
 ---
